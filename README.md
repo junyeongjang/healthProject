@@ -102,7 +102,7 @@
 
      - 함수명 : getEarlyRegistCancleCustomer()
 
-       ![image](/Users/jangjun-yeong/Documents/GitHub/cpp.study/cpp_project/team3/GymProject_team3/image.png)
+       ![image](./image.png)
 
   10. PT를 가장 많이/적게 이용하는 연령대는?
       - birthday에서 age를 추출
